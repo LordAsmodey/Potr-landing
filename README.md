@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+[DEMO LINK](https://lordasmodey.github.io/Potr-landing/)
+
+[Figma Design](https://www.figma.com/file/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=0%3A1)
+
+Technology stack: HTML, CSS/SCSS, BEM, Javascript
+
+Adaptive design: 320px => 2048px
